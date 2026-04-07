@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import time
-keyword = "怎么做饭"
+keyword = "galgame"
 max_page = 5
 wait_time = 1
 headers = {
